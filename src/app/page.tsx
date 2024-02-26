@@ -4,6 +4,7 @@ export default function Page() {
       <h1>Cats v Dogs</h1>
       <p>Part 2: the reckoning</p>
       <p>:(</p>
+      <p>DOGS RULE CATZ DROOL</p>
     </header>
   )
 }
